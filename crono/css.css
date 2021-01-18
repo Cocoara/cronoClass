@@ -1,0 +1,19 @@
+#crono{
+    font-size: 50px;
+}
+
+input{
+    margin-left: 30px;
+    height: 31px;
+    width: 31px;
+}
+
+    .start{
+        background-image:url("https://img.icons8.com/flat_round/28/000000/play--v1.png");
+        }
+    .stop{
+        background-image:url("https://img.icons8.com/flat_round/28/000000/pause--v1.png");
+        }
+    .reiniciar{
+        background-image:url("https://img.icons8.com/flat_round/28/000000/stop.png");
+    }
